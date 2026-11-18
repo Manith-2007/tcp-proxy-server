@@ -1,0 +1,8 @@
+2026-10-28 16:57:10,453 INFO Loaded policy: default_action=deny
+2026-10-28 16:57:10,453 INFO TCP proxy listening on 127.0.0.1:8000
+2026-10-28 16:57:35,676 INFO ALLOW client=('127.0.0.1', 35624) destination=127.0.0.1:9001
+2026-10-28 16:58:35,541 INFO Loaded policy: default_action=deny
+2026-10-28 16:58:35,541 INFO TCP proxy listening on 127.0.0.1:8000
+2026-10-28 16:58:38,987 WARNING DENY client=('127.0.0.1', 47992) destination=127.0.0.1:9001
+2026-10-28 17:05:51,043 INFO Loaded policy: default_action=deny
+2026-10-28 17:05:51,044 INFO TCP proxy listening on 127.0.0.1:8000
