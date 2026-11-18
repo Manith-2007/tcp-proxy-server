@@ -1,0 +1,11 @@
+
+{
+  "default_action": "deny",
+  "allowed_destinations": [
+    {
+      "host": "127.0.0.1",
+      "port": 9001,
+      "action": "deny"
+    }
+  ]
+}
